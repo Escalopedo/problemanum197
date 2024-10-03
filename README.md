@@ -1,4 +1,4 @@
-M12 Actividad 4 de Eric Alcázar y Alex Ventura
+M12 ACTIVIDAD 4: ERIC ALCÁZAR Y ALEX VENTURA
 
 Esta actividad nos ayuda a potenciar la lógica de programación, ya que nos hace pensar en diferentes pasos y patrones que hemos de establecer para un código en concreto y para que salga todo como queramos.
 
