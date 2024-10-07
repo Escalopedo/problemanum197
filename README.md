@@ -7,7 +7,7 @@ Lo siguiente que hemos hecho ha sido transformar una palabra de x'' a x' y despu
 - TRANSFORMACIÓN DE X'' a X' (Eric Alcázar):
 
 ![Desencriptación de X'' a X']
-(https://raw.githubusercontent.com/Escalopedo/problemanum197/refs/heads/main/img/Alc%C3%A1zarEricAlexVentura_M12_Transformaci%C3%B3nX1aX.png)
+(https://raw.githubusercontent.com/Escalopedo/problemanum197/refs/heads/main/img/AlcazarEricAlexVentura_M12_TransformacionX1aX.png)
 
 - TRANSFORMACIÓN DE X' A X (Alex Ventura):
 
