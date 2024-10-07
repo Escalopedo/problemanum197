@@ -13,3 +13,5 @@ Lo siguiente que hemos hecho ha sido transformar una palabra de x'' a x' y despu
 ![Transformación de X' a X](https://raw.githubusercontent.com/Escalopedo/problemanum197/refs/heads/main/img/AlcazarEricAlexVentura_M12_TransformacionX1aX.png)
 
 - TRANSFORMACIÓN DE X'' A X' (Alex Ventura y Eric Alcázar):
+
+![Transformación de X' a X](https://raw.githubusercontent.com/Escalopedo/problemanum197/refs/heads/main/img/AlcazarEricAlexVentura_M12_TransformacionX2aX.png)
