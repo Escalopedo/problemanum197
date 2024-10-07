@@ -6,8 +6,10 @@ Lo siguiente que hemos hecho ha sido transformar una palabra de x'' a x' y despu
 
 - TRANSFORMACIÓN DE X'' a X' (Eric Alcázar):
 
-![Transformación de X'' a X'](https://raw.githubusercontent.com/Escalopedo/problemanum197/refs/heads/main/img/AlcazarEricAlexVentura_M12_TransformacionX1aX.png)
+![Transformación de X'' a X'](https://raw.githubusercontent.com/Escalopedo/problemanum197/refs/heads/main/img/AlcazarEricAlexVentura_M12_TransformacionX2aX1.png)
 
 - TRANSFORMACIÓN DE X' A X (Alex Ventura):
+
+![Transformación de X' a X](https://raw.githubusercontent.com/Escalopedo/problemanum197/refs/heads/main/img/AlcazarEricAlexVentura_M12_TransformacionX1aX.png)
 
 - TRANSFORMACIÓN DE X'' A X' (Alex Ventura y Eric Alcázar):
